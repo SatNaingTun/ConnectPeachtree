@@ -1,0 +1,9 @@
+E:\vsprojects\ConnectPeachtree\ConnectPeachtree\bin\Debug\ConnectPeachtree.exe
+E:\vsprojects\ConnectPeachtree\ConnectPeachtree\bin\Debug\ConnectPeachtree.pdb
+E:\vsprojects\ConnectPeachtree\ConnectPeachtree\obj\x86\Debug\ConnectPeachtree.csprojResolveAssemblyReference.cache
+E:\vsprojects\ConnectPeachtree\ConnectPeachtree\obj\x86\Debug\ConnectPeachtree.Form1.resources
+E:\vsprojects\ConnectPeachtree\ConnectPeachtree\obj\x86\Debug\ConnectPeachtree.Properties.Resources.resources
+E:\vsprojects\ConnectPeachtree\ConnectPeachtree\obj\x86\Debug\ConnectPeachtree.csproj.GenerateResource.Cache
+E:\vsprojects\ConnectPeachtree\ConnectPeachtree\obj\x86\Debug\ConnectPeachtree.exe
+E:\vsprojects\ConnectPeachtree\ConnectPeachtree\obj\x86\Debug\ConnectPeachtree.pdb
+E:\vsprojects\ConnectPeachtree\ConnectPeachtree\bin\Debug\ConnectPeachtree.exe.config
